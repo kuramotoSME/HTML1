@@ -1,0 +1,19 @@
+
+body {
+    background-color: rgb(132, 192, 244);
+}
+h1{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    border:5px solid #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+p,ul{
+    list-style-position: inside;
+    text-align: center;
+    margin-bottom: 20px;
+}
